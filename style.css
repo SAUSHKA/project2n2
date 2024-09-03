@@ -1,0 +1,66 @@
+header h1{
+    text-align: center;
+    font-size: 80px;
+    background-color: cornflowerblue;
+    color:rebeccapurple;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+nav{
+   margin: 20px 0px;
+   text-align: center;
+   padding: 20px 0px;
+   background-color: rosybrown;
+}
+
+nav a{
+    text-decoration: none;
+    color: rebeccapurple;
+    background-color: #F5F5DC;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 40px;
+    margin:10px;
+}
+
+footer{
+    background-color: #7FFFD4;
+    font-size:20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    background-color: cornflowerblue;
+    color:rebeccapurple;
+}
+
+main p{
+    background-color: rosybrown;
+    font-size: 25px;
+}
+
+main img{
+    width: 150px;
+    height: 125px;
+}
+
+.sushi img{
+    width:200px;
+}
+
+.free img{
+    width: 125px;
+}
+
+.kola img{
+    width: 110px;
+}
+
+main{
+    font-size: 20px;
+
+}
